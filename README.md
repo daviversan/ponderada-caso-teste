@@ -89,7 +89,9 @@ Dentro da classe de teste (`TestNomeValido`), foram criados métodos para verifi
 
 ## Resultado obtido
 &emsp;Os resultados obtidos condizem com o que foi planejado para cada caso esperado:
-<img>
+
+<img src="results_test.png" alt="Minha Imagem" />
+
 
 ## Pós-condição
 ### 1. Se o nome contiver apenas letras e espaços:
